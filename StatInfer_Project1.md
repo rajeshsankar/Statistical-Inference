@@ -1,14 +1,3 @@
----
-title: 'Statistical Inference Project, Part 1: Simulation Exercise'
-author: "Rajesh Sankar"
-output:
-  html_document: default
-  pdf_document:
-    fig_height: 4
----
-
-
-
 # Exponential Distribution in R vs Central Limit Theorem
 Rajesh Sankar  
 22-Aug-2015  

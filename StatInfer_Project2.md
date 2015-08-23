@@ -1,14 +1,3 @@
----
-title: 'Statistical Inference Project, Part 2: Basic Inferential Data Analysis'
-author: "Rajesh Sankar"
-output:
-  html_document: default
-  pdf_document:
-    fig_height: 4
----
-
-
-
 # ToothGrowth Vitamin C Data Study
 Rajesh Sankar  
 22-Aug-2015
